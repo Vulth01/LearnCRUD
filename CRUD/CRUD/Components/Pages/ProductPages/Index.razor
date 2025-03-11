@@ -11,18 +11,20 @@
 <h1>Index</h1>
 
 <p>
-    <a href="products/create">Create New</a>
+    <a href="products/create" class="btn btn-primary">Create New</a>
 </p>
 
 <QuickGrid Class="table" Items="context.Product">
+
+    <PropertyColumn Property="product => product.Id" />
     <PropertyColumn Property="product => product.Name" />
     <PropertyColumn Property="product => product.Price" />
     <PropertyColumn Property="product => product.Qty" />
 
     <TemplateColumn Context="product">
-        <a href="@($"products/edit?id={product.Id}")">Edit</a> |
-        <a href="@($"products/details?id={product.Id}")">Details</a> |
-        <a href="@($"products/delete?id={product.Id}")">Delete</a>
+        <a href="@($"products/edit?id={product.Id}" )" class="btn btn-info" style="background-color: cornflowerblue;border-color: cornflowerblue">Edit</a> |
+        <a href="@($"products/details?id={product.Id}")" class="btn btn-success" style="background-color: mediumaquamarine;border-color: mediumaquamarine">Details</a> |
+        <a href="@($"products/delete?id={product.Id}")" class="btn btn-danger" style="background-color: indianred;border-color: indianred"> Delete</a>
     </TemplateColumn>
 </QuickGrid>
 
