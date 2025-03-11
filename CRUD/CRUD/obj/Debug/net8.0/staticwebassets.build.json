@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RcL+bAKRi8VICysRTbdyV6MOzMUqtWyhGPh2d3h9Dk0=",
+  "Hash": "HLCVUypcBoKSjF6pi5bR6Ny4yiVFYHkFEhSF1sR56hM=",
   "Source": "CRUD",
   "BasePath": "_content/CRUD",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "CRUD\\wwwroot",
       "Source": "CRUD",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "Pattern": "**"
     }
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
+      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
       "SourceId": "CRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "CRUD#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -77,13 +77,13 @@
       "Integrity": "5PKRRly7+NVhgvZfM2pW6Xl+3JeJ4V1KZXK9TDhmlBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css"
+      "OriginalItemSpec": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
+      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
       "SourceId": "CRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "CRUD#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "8920DQJxZcD7czH1rhfvep/Obt8cUclmdroyF50rLfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -262,7 +262,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -299,7 +299,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -344,7 +344,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +389,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -426,7 +426,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -471,7 +471,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -508,7 +508,7 @@
     },
     {
       "Route": "CRUD.40ij5nbqbv.styles.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -557,7 +557,7 @@
     },
     {
       "Route": "CRUD.bundle.scp.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -594,7 +594,7 @@
     },
     {
       "Route": "CRUD.h3xqk5n3h3.bundle.scp.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -639,7 +639,7 @@
     },
     {
       "Route": "CRUD.styles.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -680,7 +680,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,7 +725,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

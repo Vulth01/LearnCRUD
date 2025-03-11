@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\components\\pages\\productpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\components\\pages\\productpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\wwwroot\\bootstrap\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\wwwroot\\bootstrap\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\migrations\\20250311155802_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\20250311155802_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|c:\\users\\damie\\onedrive\\desktop\\work\\crud\\crud\\components\\pages\\productpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BB4B713-A42E-449F-BBC3-9F43ABBDCDEB}|CRUD\\CRUD.csproj|solutionrelative:crud\\components\\pages\\productpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 414,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CRUD\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CRUD\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:40:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRUD\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRUD\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T18:02:19.639Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -50,20 +92,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "RelativeToolTip": "CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADtSwEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T18:02:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250311155802_initial.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Migrations\\20250311155802_initial.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\20250311155802_initial.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Migrations\\20250311155802_initial.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\20250311155802_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:01:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.razor",
               "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Components\\Pages\\ProductPages\\Create.razor",
               "RelativeDocumentMoniker": "CRUD\\Components\\Pages\\ProductPages\\Create.razor",
               "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\Components\\Pages\\ProductPages\\Create.razor",
               "RelativeToolTip": "CRUD\\Components\\Pages\\ProductPages\\Create.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-11T17:59:50.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\CRUD\\CRUD\\appsettings.json",
               "RelativeDocumentMoniker": "CRUD\\appsettings.json",
