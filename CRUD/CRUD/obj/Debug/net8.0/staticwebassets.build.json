@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HLCVUypcBoKSjF6pi5bR6Ny4yiVFYHkFEhSF1sR56hM=",
+  "Hash": "0N7r5wN/3Zs4mi5OCf4wmQOntNregZMUkjm18Aym9DY=",
   "Source": "CRUD",
   "BasePath": "_content/CRUD",
   "Mode": "Default",
@@ -10,59 +10,17 @@
     {
       "Name": "CRUD\\wwwroot",
       "Source": "CRUD",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
-      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
-      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
-      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "25o87uqmvr",
-      "Integrity": "Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
-      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
-      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
-      "RelativePath": "QuickGrid.razor.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "eu7w3d5g1a",
-      "Integrity": "tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
-    },
-    {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
+      "Identity": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
       "SourceId": "CRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "CRUD#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -77,13 +35,13 @@
       "Integrity": "5PKRRly7+NVhgvZfM2pW6Xl+3JeJ4V1KZXK9TDhmlBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css"
+      "OriginalItemSpec": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
+      "Identity": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
       "SourceId": "CRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "CRUD#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -98,13 +56,13 @@
       "Integrity": "8920DQJxZcD7czH1rhfvep/Obt8cUclmdroyF50rLfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css"
+      "OriginalItemSpec": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
+      "Identity": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -136,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
+      "Identity": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
       "SourceId": "CRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
+      "ContentRoot": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\",
       "BasePath": "_content/CRUD",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -183,12 +141,54 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "25o87uqmvr",
+      "Integrity": "Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "QuickGrid.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu7w3d5g1a",
+      "Integrity": "tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
     }
   ],
   "Endpoints": [
     {
       "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
-      "AssetFile": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -225,7 +225,7 @@
     },
     {
       "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
-      "AssetFile": "C:\\Users\\damie\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "AssetFile": "C:\\Users\\Damien.Harwood\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -262,7 +262,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -283,7 +283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -299,7 +299,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -320,7 +320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -343,8 +343,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -353,7 +353,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -361,11 +361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -375,7 +375,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -383,13 +383,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -398,7 +398,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -406,11 +406,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -420,13 +420,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -447,7 +447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -471,7 +471,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -492,7 +492,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -508,7 +508,7 @@
     },
     {
       "Route": "CRUD.40ij5nbqbv.styles.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -533,7 +533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:51:40 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Link",
@@ -557,7 +557,7 @@
     },
     {
       "Route": "CRUD.bundle.scp.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -578,7 +578,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:47:44 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -594,7 +594,7 @@
     },
     {
       "Route": "CRUD.h3xqk5n3h3.bundle.scp.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -615,7 +615,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:47:44 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -639,7 +639,7 @@
     },
     {
       "Route": "CRUD.styles.css",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,7 +664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:51:40 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Link",
@@ -680,7 +680,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -701,7 +701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -725,7 +725,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\damie\\OneDrive\\Desktop\\Work\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\LearnCRUD\\CRUD\\CRUD\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -746,7 +746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 15:44:41 GMT"
+          "Value": "Wed, 12 Mar 2025 05:32:30 GMT"
         },
         {
           "Name": "Cache-Control",
